@@ -1,6 +1,3 @@
-# freeotp-backup-parser
-A web app that parses FreeOTP backup files (externalBackup.xml) to TOTP QR codes
+# Export FreeOTP Backup
 
-## TODO
-
-- [ ] Add licensing info about code from https://www.github.com/freeotp/freeotp-android
+A TypeScript library that parses FreeOTP backup files (externalBackup.xml) and converts them to otpauth URIs
